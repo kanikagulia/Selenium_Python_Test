@@ -1,8 +1,8 @@
 # Selenium_Python_Test
 
 
-STEP 5 - Reporitng formatted Issue as Issue Heading, Issue Description, Expected Behaviour in new lines
-Function my_Validation() is created. It uses Assert in try-except loop and prints Issue in desired format, with all the details of mismatch
+STEP 5 - Reporitng formatted Issue as Issue Heading, Issue Description, Expected Behaviour in new lines. 
+Function my_Validation() is created. It uses Assert in try-except loop and prints Issue in desired format, with all the details of mismatch. 
 Line 29-34 in code
 
 STEP 2 - Enter Details
